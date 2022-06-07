@@ -1,5 +1,8 @@
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamdarcy&show_icons=true&theme=vue&hide_title=true&count_private=true&hide=contribs&include_all_commits=true&locale=cn&line_height=22" />
 
+📫 硬能画电路图、Layout，软会微信小程序、VUE、Nodejs开发。 
+💬 你可以通过微信：lookgxl 找到我。
 <!--
 **iamdarcy/iamdarcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
