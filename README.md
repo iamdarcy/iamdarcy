@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=iamdarcy&show_icons=true&theme=vue&hide_title=true&count_private=true&hide=contribs&include_all_commits=true&locale=cn&line_height=22" />
 
 技术栈：  
-😄 需求分析、原型设计、UI设计（PS、AI）、微信小程序原生开发、VUE、NodeJS、NuxtJS、电路设计、电路板Layout。
+😄 需求分析、原型设计、UI设计（PS、AI）、微信小程序原生开发、VUE、NodeJS、NuxtJS。
 💬 你可以通过微信：lookgxl 找到我。
 <!--
 **iamdarcy/iamdarcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
